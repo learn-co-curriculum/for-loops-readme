@@ -15,7 +15,7 @@ A `for` loop in Python, is primarily used for going through the elements of a li
 
 
 ```python
-zero_to_three = [0, 1, 2, 3]
+zero_to_three = [0, 1, 2, 3] 
 ```
 
 
